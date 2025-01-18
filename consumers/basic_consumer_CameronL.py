@@ -43,6 +43,8 @@ def process_message(log_file) -> None:
                 # Wait a second for a new log entry
                 delay_seconds = 1
                 time.sleep(delay_seconds)
+                # Move the cursor back to the end of the file
+                file.seek(0, os.SEEK_END)
                 # Keep checking for new log entries
                 continue
 
