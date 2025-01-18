@@ -1,0 +1,11 @@
+2025-01-17 21:05:18.359 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-01-17 21:05:18.360 | INFO     | __main__:main:106 - START producer...
+2025-01-17 21:05:18.360 | INFO     | __main__:main:107 - Hit CTRL c (or CMD c) to close.
+2025-01-17 21:05:18.361 | INFO     | __main__:get_message_interval:53 - Messages will be sent every 3 seconds.
+2025-01-17 21:05:18.361 | INFO     | __main__:main:114 - I just shared a movie! It was exciting.
+2025-01-17 21:05:21.362 | INFO     | __main__:main:114 - I just shared an app! It was boring.
+2025-01-17 21:05:24.363 | INFO     | __main__:main:114 - I just shared an app! It was exciting.
+2025-01-17 21:05:27.369 | INFO     | __main__:main:114 - I just loved an app! It was funny.
+2025-01-17 21:05:30.371 | INFO     | __main__:main:114 - I just saw a trick! It was amazing.
+2025-01-17 21:05:33.372 | INFO     | __main__:main:114 - I just loved a trick! It was amazing.
+2025-01-17 21:05:36.373 | INFO     | __main__:main:114 - I just found a movie! It was weird.
