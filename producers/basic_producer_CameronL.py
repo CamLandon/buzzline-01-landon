@@ -59,7 +59,9 @@ def get_message_interval() -> int:
 #####################################
 
 # Define some lists for generating buzz messages
-ADJECTIVES: list = ["firey", "explosive", "ethereal", "savage", "crazy", "messy", "incredible"]
+RACES: list = ["Human", "Elf", "Dwarf", "Halfling", "Gnome", "Orc", "Goblin"]
+CLASSES: list = ["Bard", "Cleric", "Druid", "Paladin", "Ranger", "Rogue", "Sorcerer", "Warlock", "Wizard"]
+ADJECTIVES: list = ["Explosive", "Shimmering", "Blazing", "Chilling", "Corrosive", "Ethereal", "Radiant", "Thunderous", "Necrotic", "Illusory", "Transmutative", "Chaotic"]
 ACTIONS: list = ["conjured", "evoked", "summoned", "channeled", "unleashed", "uttered", "invoked"]
 TOPICS: list = ["Fireball", "Magic Missle", "Cure Wounds", "Misty Step", "Shield", "Eldritch Blast", "Dispel Magic"]
 
@@ -80,10 +82,12 @@ def generate_messages():
     until we close the window or hit CTRL c (CMD c on Mac/Linux).
     """
     while True:
+        race = random.choice(RACES)
+        class = random.choice(CLASSES)
         adjective = random.choice(ADJECTIVES)
         action = random.choice(ACTIONS)
         topic = random.choice(TOPICS)
-        yield f"I just {action} {topic}! It was {adjective}."
+        yield f"The {race} {class} {action} {topic}! It was {adjective}."
 
 
 #####################################
