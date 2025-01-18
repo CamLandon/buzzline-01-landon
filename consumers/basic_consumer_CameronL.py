@@ -1,5 +1,5 @@
 """
-basic_consumer_case.py
+basic_consumer_CameronL.py
 
 Read a log file as it is being written. 
 """
@@ -52,8 +52,8 @@ def process_message(log_file) -> None:
             print(f"Consumed log message: {message}")
 
             # monitor and alert on special conditions
-            if "I just loved a movie! It was funny." in message:
-                print(f"ALERT: The special message was found! \n{message}")
+            if "The Goblin" in message:
+                print(f"ALERT: THE ENEMY'S GOBLINS ARE HERE! \n{message}")
                 logger.warning(f"ALERT: The special message was found! \n{message}")
 
 
