@@ -60,9 +60,9 @@ def get_message_interval() -> int:
 
 # Define some lists for generating buzz messages
 RACES: list = ["Human", "Elf", "Dwarf", "Halfling", "Gnome", "Orc", "Goblin"]
-CLASSES: list = ["Bard", "Cleric", "Druid", "Paladin", "Ranger", "Rogue", "Sorcerer", "Warlock", "Wizard"]
-ADJECTIVES: list = ["Explosive", "Shimmering", "Blazing", "Chilling", "Corrosive", "Ethereal", "Radiant", "Thunderous", "Necrotic", "Illusory", "Transmutative", "Chaotic"]
-ACTIONS: list = ["conjured", "evoked", "summoned", "channeled", "unleashed", "uttered", "invoked"]
+SCHOOL: list = ["Bard", "Cleric", "Druid", "Paladin", "Ranger", "Rogue", "Sorcerer", "Warlock", "Wizard"]
+ADJECTIVES: list = ["Amazing", "Incredible", "Creepy", "Impressive", "Terrifying", "Unnerving", "Powerful", "Bizarre", "Disastrous", "Radiant", "Dreadful", "Mysterious"]
+ACTIONS: list = ["cast", "unleashed", "channeled", "activated"]
 TOPICS: list = ["Fireball", "Magic Missle", "Cure Wounds", "Misty Step", "Shield", "Eldritch Blast", "Dispel Magic"]
 
 #####################################
@@ -83,11 +83,11 @@ def generate_messages():
     """
     while True:
         race = random.choice(RACES)
-        class = random.choice(CLASSES)
+        school = random.choice(SCHOOL)
         adjective = random.choice(ADJECTIVES)
         action = random.choice(ACTIONS)
         topic = random.choice(TOPICS)
-        yield f"The {race} {class} {topic}! It was {adjective}."
+        yield f"The {race} {school} {action} {topic}! It was {adjective}."
 
 
 #####################################

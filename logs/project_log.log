@@ -198,3 +198,90 @@
 2025-01-17 21:33:23.381 | INFO     | __main__:main:114 - I just channeled Eldritch Blast! It was incredible.
 2025-01-17 21:33:26.382 | INFO     | __main__:main:114 - I just summoned Cure Wounds! It was ethereal.
 2025-01-17 21:33:29.385 | INFO     | __main__:main:114 - I just invoked Magic Missle! It was ethereal.
+2025-01-17 21:50:00.705 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-01-17 21:50:00.706 | INFO     | __main__:main:110 - START producer...
+2025-01-17 21:50:00.707 | INFO     | __main__:main:111 - Hit CTRL c (or CMD c) to close.
+2025-01-17 21:50:00.707 | INFO     | __main__:get_message_interval:53 - Messages will be sent every 3 seconds.
+2025-01-17 21:50:00.707 | INFO     | __main__:main:118 - The Gnome Druid Misty Step! It was Illusory.
+2025-01-17 21:50:03.708 | INFO     | __main__:main:118 - The Gnome Cleric Fireball! It was Blazing.
+2025-01-17 21:50:06.710 | INFO     | __main__:main:118 - The Goblin Wizard Fireball! It was Thunderous.
+2025-01-17 21:50:09.711 | INFO     | __main__:main:118 - The Human Paladin Fireball! It was Blazing.
+2025-01-17 21:50:12.712 | INFO     | __main__:main:118 - The Human Paladin Fireball! It was Explosive.
+2025-01-17 21:50:15.714 | INFO     | __main__:main:118 - The Gnome Druid Dispel Magic! It was Corrosive.
+2025-01-17 21:50:18.715 | INFO     | __main__:main:118 - The Goblin Druid Fireball! It was Ethereal.
+2025-01-17 21:50:21.717 | INFO     | __main__:main:118 - The Orc Cleric Fireball! It was Thunderous.
+2025-01-17 21:50:24.719 | INFO     | __main__:main:118 - The Dwarf Sorcerer Eldritch Blast! It was Chaotic.
+2025-01-17 21:51:01.385 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-01-17 21:51:01.388 | INFO     | __main__:main:110 - START producer...
+2025-01-17 21:51:01.389 | INFO     | __main__:main:111 - Hit CTRL c (or CMD c) to close.
+2025-01-17 21:51:01.389 | INFO     | __main__:get_message_interval:53 - Messages will be sent every 3 seconds.
+2025-01-17 21:51:01.389 | INFO     | __main__:main:118 - The Elf Ranger cast Dispel Magic! It was Corrosive.
+2025-01-17 21:51:04.391 | INFO     | __main__:main:118 - The Halfling Paladin cast Shield! It was Necrotic.
+2025-01-17 21:51:07.392 | INFO     | __main__:main:118 - The Orc Cleric cast Fireball! It was Illusory.
+2025-01-17 21:51:10.393 | INFO     | __main__:main:118 - The Elf Wizard cast Cure Wounds! It was Thunderous.
+2025-01-17 21:51:13.395 | INFO     | __main__:main:118 - The Halfling Rogue cast Shield! It was Blazing.
+2025-01-17 21:51:16.396 | INFO     | __main__:main:118 - The Orc Rogue cast Misty Step! It was Thunderous.
+2025-01-17 21:51:19.397 | INFO     | __main__:main:118 - The Dwarf Warlock cast Dispel Magic! It was Radiant.
+2025-01-17 21:54:13.357 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-01-17 21:54:13.359 | INFO     | __main__:main:110 - START producer...
+2025-01-17 21:54:13.359 | INFO     | __main__:main:111 - Hit CTRL c (or CMD c) to close.
+2025-01-17 21:54:13.360 | INFO     | __main__:get_message_interval:53 - Messages will be sent every 3 seconds.
+2025-01-17 21:54:13.360 | INFO     | __main__:main:118 - The Halfling Warlock activated Misty Step! It was Dreadful.
+2025-01-17 21:54:16.361 | INFO     | __main__:main:118 - The Goblin Paladin channeled Dispel Magic! It was Creepy.
+2025-01-17 21:54:19.363 | INFO     | __main__:main:118 - The Halfling Rogue channeled Eldritch Blast! It was Bizarre.
+2025-01-17 21:54:22.364 | INFO     | __main__:main:118 - The Elf Wizard cast Misty Step! It was Incredible.
+2025-01-17 21:54:25.365 | INFO     | __main__:main:118 - The Orc Cleric channeled Magic Missle! It was Terrifying.
+2025-01-17 21:54:28.367 | INFO     | __main__:main:118 - The Orc Druid unleashed Shield! It was Terrifying.
+2025-01-17 21:54:31.369 | INFO     | __main__:main:118 - The Elf Druid channeled Misty Step! It was Terrifying.
+2025-01-17 21:55:39.221 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-01-17 21:55:39.223 | INFO     | __main__:main:110 - START producer...
+2025-01-17 21:55:39.223 | INFO     | __main__:main:111 - Hit CTRL c (or CMD c) to close.
+2025-01-17 21:55:39.224 | INFO     | __main__:get_message_interval:53 - Messages will be sent every 3 seconds.
+2025-01-17 21:55:39.225 | INFO     | __main__:main:118 - The Gnome Warlock channeled Eldritch Blast! It was Incredible.
+2025-01-17 21:55:42.226 | INFO     | __main__:main:118 - The Goblin Warlock channeled Fireball! It was Disastrous.
+2025-01-17 21:55:45.228 | INFO     | __main__:main:118 - The Halfling Paladin channeled Shield! It was Radiant.
+2025-01-17 21:55:48.229 | INFO     | __main__:main:118 - The Dwarf Wizard unleashed Fireball! It was Impressive.
+2025-01-17 21:55:51.232 | INFO     | __main__:main:118 - The Dwarf Bard unleashed Dispel Magic! It was Terrifying.
+2025-01-17 21:55:54.233 | INFO     | __main__:main:118 - The Orc Warlock activated Shield! It was Terrifying.
+2025-01-17 21:55:57.235 | INFO     | __main__:main:118 - The Human Cleric activated Fireball! It was Impressive.
+2025-01-17 21:56:00.237 | INFO     | __main__:main:118 - The Gnome Paladin cast Eldritch Blast! It was Impressive.
+2025-01-17 21:56:03.239 | INFO     | __main__:main:118 - The Halfling Warlock activated Fireball! It was Disastrous.
+2025-01-17 21:56:06.241 | INFO     | __main__:main:118 - The Goblin Bard unleashed Cure Wounds! It was Mysterious.
+2025-01-17 21:56:09.243 | INFO     | __main__:main:118 - The Dwarf Cleric unleashed Fireball! It was Bizarre.
+2025-01-17 21:56:12.245 | INFO     | __main__:main:118 - The Elf Bard cast Cure Wounds! It was Amazing.
+2025-01-17 21:56:15.247 | INFO     | __main__:main:118 - The Orc Sorcerer channeled Eldritch Blast! It was Mysterious.
+2025-01-17 21:56:18.248 | INFO     | __main__:main:118 - The Dwarf Paladin channeled Misty Step! It was Impressive.
+2025-01-17 21:56:21.250 | INFO     | __main__:main:118 - The Human Cleric cast Misty Step! It was Bizarre.
+2025-01-17 21:56:24.252 | INFO     | __main__:main:118 - The Elf Paladin activated Magic Missle! It was Mysterious.
+2025-01-17 21:56:27.254 | INFO     | __main__:main:118 - The Halfling Warlock cast Misty Step! It was Bizarre.
+2025-01-17 21:56:30.255 | INFO     | __main__:main:118 - The Dwarf Wizard unleashed Dispel Magic! It was Powerful.
+2025-01-17 21:56:33.257 | INFO     | __main__:main:118 - The Human Bard cast Dispel Magic! It was Terrifying.
+2025-01-17 21:56:36.259 | INFO     | __main__:main:118 - The Human Cleric cast Fireball! It was Radiant.
+2025-01-17 21:56:39.261 | INFO     | __main__:main:118 - The Orc Sorcerer cast Cure Wounds! It was Radiant.
+2025-01-17 21:56:42.262 | INFO     | __main__:main:118 - The Human Sorcerer unleashed Fireball! It was Amazing.
+2025-01-17 21:56:45.264 | INFO     | __main__:main:118 - The Dwarf Rogue cast Cure Wounds! It was Terrifying.
+2025-01-17 21:56:48.265 | INFO     | __main__:main:118 - The Dwarf Wizard activated Eldritch Blast! It was Incredible.
+2025-01-17 21:56:51.267 | INFO     | __main__:main:118 - The Human Druid unleashed Misty Step! It was Bizarre.
+2025-01-17 21:56:54.269 | INFO     | __main__:main:118 - The Goblin Cleric channeled Eldritch Blast! It was Amazing.
+2025-01-17 21:56:57.270 | INFO     | __main__:main:118 - The Goblin Warlock unleashed Dispel Magic! It was Incredible.
+2025-01-17 21:57:00.272 | INFO     | __main__:main:118 - The Human Paladin unleashed Cure Wounds! It was Dreadful.
+2025-01-17 21:57:03.274 | INFO     | __main__:main:118 - The Elf Bard cast Dispel Magic! It was Dreadful.
+2025-01-17 21:57:06.275 | INFO     | __main__:main:118 - The Halfling Druid channeled Magic Missle! It was Amazing.
+2025-01-17 21:57:09.277 | INFO     | __main__:main:118 - The Dwarf Bard activated Fireball! It was Disastrous.
+2025-01-17 21:57:12.279 | INFO     | __main__:main:118 - The Goblin Paladin unleashed Misty Step! It was Disastrous.
+2025-01-17 21:57:15.280 | INFO     | __main__:main:118 - The Gnome Warlock activated Magic Missle! It was Terrifying.
+2025-01-17 21:57:18.282 | INFO     | __main__:main:118 - The Dwarf Druid activated Cure Wounds! It was Amazing.
+2025-01-17 21:57:21.284 | INFO     | __main__:main:118 - The Dwarf Druid channeled Eldritch Blast! It was Creepy.
+2025-01-17 21:57:24.286 | INFO     | __main__:main:118 - The Dwarf Warlock unleashed Misty Step! It was Mysterious.
+2025-01-17 21:57:27.288 | INFO     | __main__:main:118 - The Halfling Sorcerer channeled Magic Missle! It was Incredible.
+2025-01-17 21:57:30.289 | INFO     | __main__:main:118 - The Dwarf Sorcerer cast Magic Missle! It was Disastrous.
+2025-01-17 21:57:33.290 | INFO     | __main__:main:118 - The Orc Bard channeled Misty Step! It was Bizarre.
+2025-01-17 21:57:36.292 | INFO     | __main__:main:118 - The Goblin Ranger activated Fireball! It was Dreadful.
+2025-01-17 21:57:39.294 | INFO     | __main__:main:118 - The Dwarf Paladin activated Shield! It was Impressive.
+2025-01-17 21:57:42.296 | INFO     | __main__:main:118 - The Gnome Sorcerer channeled Misty Step! It was Mysterious.
+2025-01-17 21:57:45.297 | INFO     | __main__:main:118 - The Gnome Paladin cast Dispel Magic! It was Amazing.
+2025-01-17 21:57:48.299 | INFO     | __main__:main:118 - The Human Wizard unleashed Misty Step! It was Impressive.
+2025-01-17 21:57:51.301 | INFO     | __main__:main:118 - The Elf Bard unleashed Magic Missle! It was Bizarre.
+2025-01-17 21:57:54.302 | INFO     | __main__:main:118 - The Goblin Rogue unleashed Fireball! It was Terrifying.
+2025-01-17 21:57:57.304 | INFO     | __main__:main:118 - The Halfling Druid unleashed Shield! It was Powerful.
+2025-01-17 21:58:00.306 | INFO     | __main__:main:118 - The Goblin Ranger cast Shield! It was Amazing.
