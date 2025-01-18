@@ -87,7 +87,7 @@ def generate_messages():
         adjective = random.choice(ADJECTIVES)
         action = random.choice(ACTIONS)
         topic = random.choice(TOPICS)
-        yield f"The {race} {class} {action} {topic}! It was {adjective}."
+        yield f"The {race} {class} {topic}! It was {adjective}."
 
 
 #####################################
